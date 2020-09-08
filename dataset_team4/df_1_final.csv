@@ -1,0 +1,215 @@
+img_id,img_width,img_height,img_file,cat_name,supercategory,x,y,width,height,area
+0,1537,2049,batch_1/000000.jpg,Clear plastic bottle,Bottle,710,1225,153,198,14765.5
+1,1241,751,batch_1/000004.jpg,Drink can,Can,649,55,93,88,4273
+2,1537,2049,batch_1/000005.jpg,Clear plastic bottle,Bottle,824,557,89,236,17734
+3,1537,2049,batch_1/000006.jpg,Glass bottle,Bottle,517,127,447,1322,403954
+4,1537,2049,batch_1/000011.jpg,Drink can,Can,522,1168,240,122,23393
+5,1537,2049,batch_1/000013.jpg,Glass bottle,Bottle,811,1123,199,350,24923
+6,1537,2049,batch_1/000016.jpg,Glass bottle,Bottle,593,934,432,238,45001
+7,1537,2049,batch_1/000017.jpg,Glass bottle,Bottle,713,530,191,373,35424
+8,1537,2049,batch_1/000026.jpg,Drink can,Can,556,944,490,336,93266
+9,1537,2049,batch_1/000027.jpg,Drink can,Can,668,717,455,655,165038
+10,1537,2049,batch_1/000029.jpg,Drink can,Can,652,874,425,689,152825.5
+11,1537,2049,batch_1/000030.jpg,Drink can,Can,604,1052,187,320,27762
+12,1537,2049,batch_1/000031.jpg,Drink can,Can,470,1040,413,321,89914
+13,2448,3264,batch_1/000069.JPG,Drink can,Can,1050,1654,410,353,99515.5
+14,2448,3264,batch_1/000070.JPG,Drink can,Can,1038,1111,255,637,138820.5
+15,2448,3264,batch_1/000073.JPG,Drink can,Can,940,837,492,711,202553.5
+16,2448,3264,batch_1/000105.JPG,Plastic film,Plastic bag & wrapper,848,1113,1099,1418,1291600
+17,2448,3264,batch_2/000018.JPG,Clear plastic bottle,Bottle,989,733,124,50,3939
+18,3264,2448,batch_2/000019.JPG,Clear plastic bottle,Bottle,1633,920,109,41,3584.5
+19,2448,3264,batch_2/000040.JPG,Disposable plastic cup,Cup,1336,1016,115,86,5451.5
+20,2448,3264,batch_2/000046.JPG,Drink can,Can,1000,1594,215,94,15882.5
+21,3264,2448,batch_2/000089.JPG,Plastic film,Plastic bag & wrapper,1641,859,610,180,66199
+22,3264,2448,batch_2/000090.JPG,Plastic film,Plastic bag & wrapper,1538,1583,436,220,41840
+23,3264,2448,batch_3/IMG_4856.JPG,Plastic film,Plastic bag & wrapper,1647,985,302,232,45182.5
+24,2448,3264,batch_3/IMG_4869.JPG,Plastic film,Plastic bag & wrapper,351,921,1781,1601,2181929.5
+25,2448,3011,batch_3/IMG_4929.JPG,Plastic film,Plastic bag & wrapper,827,1890,425,456,84994.5
+26,3264,2448,batch_3/IMG_4963.JPG,Clear plastic bottle,Bottle,1327,1254,293,239,32908.5
+27,3264,2448,batch_3/IMG_4964.JPG,Plastic film,Plastic bag & wrapper,1305,1162,107,101,7286.5
+28,2448,3264,batch_3/IMG_4977.JPG,Drink can,Can,1155,1733,261,265,38243.5
+29,2448,3264,batch_3/IMG_4998.JPG,Drink can,Can,1129,1456,328,154,40325
+30,2448,2858,batch_3/IMG_5037.JPG,Plastic film,Plastic bag & wrapper,996,1833,316,356,66990
+31,2448,3264,batch_3/IMG_5042.JPG,Glass bottle,Bottle,1445,1048,457,1110,343685.5
+32,2448,3264,batch_3/IMG_5043.JPG,Clear plastic bottle,Bottle,383,1252,1417,699,443664.5
+33,2448,3264,batch_3/IMG_5049.JPG,Plastic film,Plastic bag & wrapper,145,286,1433,2103,1458523.5
+34,2448,3264,batch_3/IMG_5056.JPG,Disposable plastic cup,Cup,919,1548,387,392,98477.5
+35,2448,3264,batch_3/IMG_5057.JPG,Drink can,Can,1190,1762,119,61,6341
+36,2448,3264,batch_3/IMG_5058.JPG,Drink can,Can,787,1398,314,245,46368.5
+37,2448,3264,batch_4/000007.JPG,Plastic film,Plastic bag & wrapper,688,1215,303,171,23969
+38,2448,3264,batch_4/000015.JPG,Plastic film,Plastic bag & wrapper,962,2331,288,265,56622.5
+39,2448,3264,batch_4/000020.JPG,Plastic film,Plastic bag & wrapper,928,1619,384,234,43734
+40,2448,3264,batch_4/000025.JPG,Plastic film,Plastic bag & wrapper,939,725,167,187,17804
+41,3264,2448,batch_4/000039.JPG,Disposable plastic cup,Cup,624,1087,796,338,84724
+42,2448,3264,batch_4/000040.JPG,Disposable plastic cup,Cup,1163,2064,373,488,70258
+43,2448,3264,batch_4/000048.JPG,Plastic film,Plastic bag & wrapper,846,1779,404,200,41050
+44,2448,3264,batch_4/000052.JPG,Plastic film,Plastic bag & wrapper,433,1314,696,612,190575
+45,3264,2448,batch_4/000053.JPG,Plastic film,Plastic bag & wrapper,1621,1611,481,434,104907.5
+46,2448,3264,batch_4/000063.JPG,Plastic film,Plastic bag & wrapper,1256,1593,131,436,30383
+47,3264,2448,batch_4/000076.JPG,Plastic film,Plastic bag & wrapper,1617,1030,445,348,38435
+48,3264,2448,batch_4/000077.JPG,Plastic film,Plastic bag & wrapper,1283,1624,474,304,70612.5
+49,3264,2448,batch_4/000079.JPG,Plastic film,Plastic bag & wrapper,1155,1593,217,200,20449
+50,3264,2448,batch_4/000084.JPG,Plastic film,Plastic bag & wrapper,1498,1121,109,203,12069.5
+51,3264,2448,batch_5/000007.JPG,Drink can,Can,1461,956,332,219,56476
+52,2448,3264,batch_5/000008.JPG,Clear plastic bottle,Bottle,1032,1443,509,278,67466
+53,2448,3264,batch_5/000013.JPG,Drink can,Can,704,1622,248,126,18633
+54,2448,3264,batch_5/000021.JPG,Plastic film,Plastic bag & wrapper,1217,1251,421,410,116691.5
+55,2448,3264,batch_5/000023.JPG,Plastic film,Plastic bag & wrapper,1173,1534,278,147,31089.5
+56,2448,3264,batch_5/000025.JPG,Disposable plastic cup,Cup,1292,1677,181,110,15011
+57,2448,3264,batch_5/000026.JPG,Disposable plastic cup,Cup,1431,1326,131,183,17732.5
+58,2448,3264,batch_5/000048.JPG,Clear plastic bottle,Bottle,880,968,103,235,16236.5
+59,2448,3264,batch_5/000052.JPG,Clear plastic bottle,Bottle,1517,976,86,236,12678
+60,2448,3264,batch_5/000061.JPG,Plastic film,Plastic bag & wrapper,793,1787,531,567,149543
+61,3264,2448,batch_5/000079.JPG,Plastic film,Plastic bag & wrapper,942,1470,714,224,66881.5
+62,2448,3264,batch_5/000082.JPG,Plastic film,Plastic bag & wrapper,974,2341,298,333,46773.5
+63,3264,2448,batch_5/000095.JPG,Disposable plastic cup,Cup,1965,1129,586,338,117545
+64,3264,2448,batch_5/000096.JPG,Disposable plastic cup,Cup,1668,1068,439,352,134057
+65,2448,3264,batch_5/000099.JPG,Plastic film,Plastic bag & wrapper,896,1293,701,283,85649.5
+66,2448,3264,batch_5/000101.JPG,Glass bottle,Bottle,1460,659,314,624,103757
+67,3264,2448,batch_5/000110.JPG,Plastic film,Plastic bag & wrapper,787,1695,271,227,36653.5
+68,2448,3264,batch_5/000112.JPG,Plastic film,Plastic bag & wrapper,703,1540,484,561,106622
+69,2448,3264,batch_5/000115.JPG,Plastic film,Plastic bag & wrapper,1136,1453,181,183,19662
+70,2448,3264,batch_6/000000.JPG,Disposable plastic cup,Cup,930,1697,224,177,19428
+71,2448,3264,batch_6/000007.JPG,Plastic film,Plastic bag & wrapper,879,1411,1543,921,880609
+72,2448,3264,batch_6/000010.JPG,Clear plastic bottle,Bottle,534,1591,610,725,219050.5
+73,2448,3264,batch_6/000021.JPG,Clear plastic bottle,Bottle,685,422,807,1190,401206
+74,2448,3264,batch_6/000026.JPG,Plastic film,Plastic bag & wrapper,701,1444,795,859,319365.5
+75,3264,2448,batch_6/000027.JPG,Disposable plastic cup,Cup,950,1803,534,328,107975.5
+76,2448,3264,batch_6/000028.JPG,Drink can,Can,1159,1753,533,389,112769.5
+77,3680,2760,batch_6/000040.JPG,Drink can,Can,1912,1280,27,21,454.5
+78,2448,3264,batch_6/000051.JPG,Clear plastic bottle,Bottle,1123,836,149,445,49259.5
+79,2448,3264,batch_6/000052.JPG,Disposable plastic cup,Cup,956,1473,154,202,24180.5
+80,2448,3264,batch_6/000060.JPG,Clear plastic bottle,Bottle,867,1265,300,606,135323
+81,3264,2448,batch_6/000062.JPG,Plastic film,Plastic bag & wrapper,1131,1561,402,341,57233
+82,2448,3264,batch_6/000085.JPG,Clear plastic bottle,Bottle,639,1417,547,530,131665
+83,3264,2448,batch_6/000090.JPG,Clear plastic bottle,Bottle,710,1624,208,190,26561
+84,2448,3264,batch_6/000094.JPG,Plastic film,Plastic bag & wrapper,1064,1865,444,381,95489
+85,6000,4000,batch_7/000005.JPG,Plastic film,Plastic bag & wrapper,1822,1957,723,861,377384
+86,6000,4000,batch_7/000011.JPG,Drink can,Can,2999,2432,308,173,38649.5
+87,6000,4000,batch_7/000012.JPG,Plastic film,Plastic bag & wrapper,3326,1175,866,878,346434
+88,2448,3264,batch_7/000016.JPG,Clear plastic bottle,Bottle,358,844,345,120,30592.5
+89,3264,2448,batch_7/000017.JPG,Clear plastic bottle,Bottle,1436,1742,355,458,76057
+90,960,1280,batch_7/000030.JPG,Disposable plastic cup,Cup,125,565,455,575,193776
+91,2448,3264,batch_7/000055.JPG,Plastic film,Plastic bag & wrapper,1262,1243,417,198,44993.5
+92,2448,3264,batch_7/000057.JPG,Disposable plastic cup,Cup,1299,1332,98,69,4695
+93,2448,3264,batch_7/000069.JPG,Plastic film,Plastic bag & wrapper,1200,1795,221,227,27831
+94,3264,2448,batch_7/000082.JPG,Clear plastic bottle,Bottle,886,1343,265,220,33837.5
+95,2448,3264,batch_7/000088.JPG,Clear plastic bottle,Bottle,1312,1524,101,43,3256.5
+96,3264,2448,batch_7/000089.JPG,Clear plastic bottle,Bottle,1449,1316,129,39,3850.5
+97,2448,3264,batch_7/000093.JPG,Disposable plastic cup,Cup,987,1147,375,306,63550.5
+98,2448,3264,batch_7/000095.JPG,Drink can,Can,919,1627,305,178,46588.5
+99,3264,2448,batch_7/000103.JPG,Plastic film,Plastic bag & wrapper,2139,942,99,279,22828.5
+100,3264,2448,batch_7/000104.JPG,Plastic film,Plastic bag & wrapper,1440,972,414,136,32013.5
+101,3264,2448,batch_7/000108.JPG,Plastic film,Plastic bag & wrapper,1037,1054,362,206,42851
+102,3264,2448,batch_7/000111.JPG,Disposable plastic cup,Cup,1529,1554,283,288,41863
+103,3264,2448,batch_7/000118.JPG,Drink can,Can,1674,1217,223,267,38512
+104,3264,2448,batch_7/000119.JPG,Glass bottle,Bottle,1826,1285,575,221,59705.5
+105,3264,2448,batch_7/000121.JPG,Plastic film,Plastic bag & wrapper,1564,1465,476,266,51675.5
+106,3264,2448,batch_7/000128.JPG,Plastic film,Plastic bag & wrapper,1726,1054,271,316,49168
+107,3264,2448,batch_7/000135.JPG,Clear plastic bottle,Bottle,1343,1577,160,401,38615
+108,2448,3264,batch_8/000018.jpg,Drink can,Can,1149,956,225,131,17709.5
+109,2448,3264,batch_8/000022.jpg,Disposable plastic cup,Cup,1431,1121,101,85,6354.5
+110,2448,3264,batch_8/000039.jpg,Glass bottle,Bottle,946,2079,498,207,51373
+111,3264,2448,batch_8/000041.jpg,Clear plastic bottle,Bottle,1129,735,357,298,75217
+112,3264,2448,batch_8/000043.jpg,Clear plastic bottle,Bottle,1646,1083,416,128,41037
+113,3264,2448,batch_8/000045.jpg,Clear plastic bottle,Bottle,1225,1335,188,64,9302.5
+114,3264,2448,batch_8/000049.jpg,Plastic film,Plastic bag & wrapper,723,1229,337,285,54769
+115,1200,1600,batch_8/000060.jpg,Plastic film,Plastic bag & wrapper,527,873,140,73,5658.5
+116,2268,4032,batch_8/000086.jpg,Plastic film,Plastic bag & wrapper,660,1728,937,925,109333
+117,2268,4032,batch_8/000087.jpg,Drink can,Can,803,2011,327,391,78314.5
+118,2448,3264,batch_9/000005.jpg,Clear plastic bottle,Bottle,1198,1063,445,313,70664.5
+119,3264,2448,batch_9/000012.jpg,Plastic film,Plastic bag & wrapper,1374,1270,270,253,15664.5
+120,2448,3264,batch_9/000017.jpg,Plastic film,Plastic bag & wrapper,1311,1461,331,391,66409.5
+121,2448,3264,batch_9/000018.jpg,Plastic film,Plastic bag & wrapper,958,2139,666,496,185691
+122,2448,3264,batch_9/000021.jpg,Plastic film,Plastic bag & wrapper,1073,2046,274,292,46393
+123,2448,3264,batch_9/000032.jpg,Plastic film,Plastic bag & wrapper,681,1710,1053,810,454680.5
+124,2448,3264,batch_9/000041.jpg,Plastic film,Plastic bag & wrapper,1541,1878,154,492,52439.5
+125,2448,3264,batch_9/000042.jpg,Plastic film,Plastic bag & wrapper,1053,1321,204,211,21319
+126,2448,3264,batch_9/000043.jpg,Plastic film,Plastic bag & wrapper,1309,2047,379,251,26965
+127,2448,3264,batch_9/000044.jpg,Plastic film,Plastic bag & wrapper,1192.5398,1317.1533,332,373,71786
+128,2448,3264,batch_9/000045.jpg,Plastic film,Plastic bag & wrapper,623,1655,355,397,60376
+129,1824,4000,batch_9/000083.jpg,Drink can,Can,719,1199,494,709,272909
+130,4000,1824,batch_9/000091.jpg,Clear plastic bottle,Bottle,1260,1274,517,310,83537
+131,1824,4000,batch_9/000092.jpg,Clear plastic bottle,Bottle,671,2067,102,217,17592.5
+132,1824,4000,batch_10/000000.jpg,Clear plastic bottle,Bottle,1370,1291,380,150,26957
+133,1824,4000,batch_10/000012.jpg,Clear plastic bottle,Bottle,1429.5,2413,191,138,13775.5
+134,4000,1824,batch_10/000016.jpg,Plastic film,Plastic bag & wrapper,2515,1272,242,260,35501.5
+135,1824,4000,batch_10/000023.jpg,Clear plastic bottle,Bottle,583,1544,131,53,4624
+136,1824,4000,batch_10/000025.jpg,Drink can,Can,1151,2356,257,191,38245
+137,4000,1824,batch_10/000053.jpg,Plastic film,Plastic bag & wrapper,690,716,272,304,50338
+138,4000,1824,batch_10/000055.jpg,Plastic film,Plastic bag & wrapper,1323.9048,959.1428,296,316,18164
+139,4000,1824,batch_10/000056.jpg,Plastic film,Plastic bag & wrapper,1978,615,137,168,7410
+140,1824,4000,batch_10/000058.jpg,Plastic film,Plastic bag & wrapper,1201.5,1806,338,313,59397
+141,1824,4000,batch_10/000060.jpg,Plastic film,Plastic bag & wrapper,1309,1516,135,138,7191.5
+142,1824,4000,batch_10/000065.jpg,Plastic film,Plastic bag & wrapper,782,1680,498,126,49353
+143,4000,1824,batch_10/000066.jpg,Plastic film,Plastic bag & wrapper,2109,701,490,319,50713
+144,4000,1824,batch_10/000067.jpg,Plastic film,Plastic bag & wrapper,2350,416,174,140,10643
+145,1824,4000,batch_10/000068.jpg,Plastic film,Plastic bag & wrapper,700,1524,253,222,33598.5
+146,4000,1824,batch_10/000073.jpg,Plastic film,Plastic bag & wrapper,2312.5,1038,250,110,13651
+147,2322,4128,batch_11/000030.jpg,Plastic film,Plastic bag & wrapper,1080,2426,588,240,60439
+148,2322,4128,batch_11/000032.jpg,Plastic film,Plastic bag & wrapper,1058,1104,477,705,180534
+149,3463,4618,batch_11/000041.jpg,Drink can,Can,1374.9507,2107,330.6412,409,77605.99255
+150,3024,4032,batch_11/000050.jpg,Plastic film,Plastic bag & wrapper,267,391,862,1141,465265.5
+151,3024,4032,batch_11/000064.jpg,Plastic film,Plastic bag & wrapper,797,729,1247,2215,1470078
+152,3024,4032,batch_11/000066.jpg,Plastic film,Plastic bag & wrapper,1008,1806,985,584,294307.5
+153,3024,4032,batch_11/000083.jpg,Plastic film,Plastic bag & wrapper,388.90475,854,2335.90485,2001,2709378.563
+154,3024,4032,batch_11/000084.jpg,Plastic film,Plastic bag & wrapper,565,1955,1901,1033,1282213
+155,3024,4032,batch_11/000087.jpg,Plastic film,Plastic bag & wrapper,562,1752,1491,738,636454.5
+156,4160,2340,batch_12/000005.jpg,Plastic film,Plastic bag & wrapper,857,565,2291,1457,1734631.5
+157,2988,5312,batch_12/000008.jpg,Drink can,Can,1007,1210,1383,2289,2522073
+158,2988,5312,batch_12/000012.jpg,Clear plastic bottle,Bottle,682,1178,1278,2083,1375164.5
+159,2988,5312,batch_12/000018.jpg,Drink can,Can,1146,2174,725,519,193975
+160,2988,5312,batch_12/000022.jpg,Disposable plastic cup,Cup,1045.1904,1893.381,783,849.9999,501426.9482
+161,2988,5312,batch_12/000040.jpg,Plastic film,Plastic bag & wrapper,518,1211,1562,1437,1418946.5
+162,3024,4032,batch_12/000044.jpg,Drink can,Can,1275,2425,260,337,54445
+163,2976,3968,batch_12/000045.jpg,Clear plastic bottle,Bottle,1377,1499,94,132,7233
+164,2988,5312,batch_12/000052.jpg,Disposable plastic cup,Cup,1011,1589,824,782,490438
+165,2988,5312,batch_12/000053.jpg,Drink can,Can,204,2055,2083,1707,1683480
+166,2988,5312,batch_12/000054.jpg,Disposable plastic cup,Cup,978,1615,982,793,564021
+167,2368,4208,batch_12/000064.jpg,Plastic film,Plastic bag & wrapper,1131.9558,2074,570.4818,642,203620.9402
+168,2368,4208,batch_12/000065.jpg,Plastic film,Plastic bag & wrapper,1041,2305,670,608,284287.5
+169,2368,4208,batch_12/000068.jpg,Glass bottle,Bottle,167.21175,1527,1934.44965,870,781529.6861
+170,2368,4208,batch_12/000070.jpg,Plastic film,Plastic bag & wrapper,502.42426,1363,1360.14854,1313,1108972.443
+171,3120,4160,batch_12/000072.jpg,Disposable plastic cup,Cup,1039,1287,1081,1500,1092646.5
+172,3120,4160,batch_12/000073.jpg,Plastic film,Plastic bag & wrapper,274,1261,2157,2028,2697243
+173,4160,3120,batch_12/000076.jpg,Drink can,Can,1737,1019,1411,781,960169
+174,4160,3120,batch_12/000083.jpg,Plastic film,Plastic bag & wrapper,1128,478,2142,1563,1800429
+175,4160,3120,batch_12/000099.jpg,Plastic film,Plastic bag & wrapper,1303,197,2347,2726,1761106.5
+176,3120,4160,batch_13/000017.jpg,Disposable plastic cup,Cup,1111.5,1532,1147.5,1679,1107797
+177,4160,3120,batch_13/000024.jpg,Plastic film,Plastic bag & wrapper,1633.9524,1117.619,960,1085.0001,588148.5103
+178,3120,4160,batch_13/000037.jpg,Drink can,Can,1226.0156,1623.1406,570,1518,806341.5
+179,3120,4160,batch_13/000038.jpg,Plastic film,Plastic bag & wrapper,955,1402,1023,2100,1505589
+180,3120,4160,batch_13/000042.jpg,Clear plastic bottle,Bottle,972.1905,1138.2856,892.9999,2246.2384,1482282.827
+181,4160,3120,batch_13/000046.jpg,Plastic film,Plastic bag & wrapper,945,184,2428,2446,4322330
+182,4160,3120,batch_13/000058.jpg,Plastic film,Plastic bag & wrapper,1554,1040,2181,1220.3335,809338.0725
+183,3120,4160,batch_13/000065.jpg,Plastic film,Plastic bag & wrapper,1,971,2514,3188,5810061
+184,4160,3120,batch_13/000067.jpg,Glass bottle,Bottle,395,1032,3758,1042,3044175
+185,4160,3120,batch_13/000074.jpg,Plastic film,Plastic bag & wrapper,915,318,1749,2170,2301606
+186,3120,4160,batch_13/000076.jpg,Plastic film,Plastic bag & wrapper,969,1002,1321,2816,2088326
+187,3120,4160,batch_13/000082.jpg,Drink can,Can,893,831,1190,2525,2729814.5
+188,3120,4160,batch_13/000085.jpg,Plastic film,Plastic bag & wrapper,706,1378,1708,1179,1423674.5
+189,3120,4160,batch_13/000086.jpg,Clear plastic bottle,Bottle,990,628,1360,2420,1798219
+190,4160,3120,batch_13/000088.jpg,Drink can,Can,807,512,2247,1260,2219156
+191,4160,3120,batch_13/000093.jpg,Clear plastic bottle,Bottle,40,450,3688,1498,4376761
+192,4160,3120,batch_13/000099.jpg,Plastic film,Plastic bag & wrapper,1036,1,1928,3118,2450147
+193,4160,3120,batch_14/000001.jpg,Disposable plastic cup,Cup,1270,791,1807,1790,1744541.5
+194,4160,3120,batch_14/000010.jpg,Plastic film,Plastic bag & wrapper,253,958,2611,1262,2431018.5
+195,4160,3120,batch_14/000012.jpg,Plastic film,Plastic bag & wrapper,591.6667,32.047607,3557.4283,2803.761993,2252708.776
+196,4160,3120,batch_14/000018.jpg,Plastic film,Plastic bag & wrapper,1445,1078,903,877,495670
+197,3120,4160,batch_14/000024.jpg,Drink can,Can,1221,2156,806,1030,402971.5
+198,3024,4032,batch_14/000026.jpg,Plastic film,Plastic bag & wrapper,1482,2023,563,287,69715
+199,3024,4032,batch_14/000027.jpg,Plastic film,Plastic bag & wrapper,627,2099,757,678,130851.5
+200,3024,4032,batch_14/000028.jpg,Plastic film,Plastic bag & wrapper,684,1423,1310,588,453026.5
+201,3024,4032,batch_14/000031.jpg,Disposable plastic cup,Cup,1137,2010,1883,1484,2040649
+202,3024,4032,batch_14/000033.jpg,Disposable plastic cup,Cup,1440,2568,216,200,32973
+203,3024,4032,batch_14/000034.jpg,Plastic film,Plastic bag & wrapper,1311,1763,361,528,155362
+204,3024,4032,batch_14/000038.jpg,Glass bottle,Bottle,876.1905,1597.524,1109.9999,809.9998,300830.8476
+205,3024,4032,batch_14/000039.jpg,Glass bottle,Bottle,852,1713,1206,1123,452806.5
+206,4032,3024,batch_14/000057.jpg,Plastic film,Plastic bag & wrapper,1626,1762,2136,584,570541
+207,3024,4032,batch_14/000064.jpg,Plastic film,Plastic bag & wrapper,928,1567,1047,1473,929940.82
+208,3024,4032,batch_14/000066.jpg,Disposable plastic cup,Cup,386,1415,1562,1231,767427
+209,3024,4032,batch_14/000086.jpg,Plastic film,Plastic bag & wrapper,1152.1428,1268.2856,376,477,123008
+210,3024,4032,batch_14/000096.jpg,Glass bottle,Bottle,934,3067,906,587,196153.5
+211,3024,4032,batch_15/000040.jpg,Disposable plastic cup,Cup,1231,2246,356,360,78185.5
+212,3024,4032,batch_15/000042.jpg,Disposable plastic cup,Cup,1533,2213,312,333,67954.5
+213,3024,4032,batch_15/000050.jpg,Glass bottle,Bottle,1129,1254,644,2207,1049783
