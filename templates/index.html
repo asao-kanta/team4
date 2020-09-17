@@ -1,33 +1,9 @@
-<!DOCTYPE html>
-<html lang="ja" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title>ゴミの分別予測サイト</title>
-  </head>
-  <body>
-    <div class="xxx">
-    <h1>画像からゴミの種類を予測をします</h1>
-    <p>画像をアップロードしてください</p>
-    <form method="post" action="/send" enctype="multipart/form-data">
-　　  <input type="file" id="img_file" name="img_file" class="col-sm-4">
-  　　<input type="submit" value="送信" class="btn">
-    <p>1MB以上の画像はアップロードできません</p>
+{% extends "layout.html" %}
+{% block content %}
 
-    <p style="color: {{color}};"> {{massege}} </p>
-　　</form>
-  <!--<p class="bottom">使用モデル　mobilenet 　<a href="https://arxiv.org/pdf/1704.04861.pdf">ソース</a></p>
-  </div>
-  </body>
-</html>-->
+<form action="/result" method="post" enctype="multipart/form-data">
+  <input type="file" name="image" accept="image/png, image/jpeg, image/jpg">
+  <button type="submit">Submit</button>
+</form>
 
-<style type="text/css">
-div {
-  background: #ffffff;
-  width: 90%;
-  padding: 10px;
-  text-align: center;
-  margin: 0 auto;
-  height: 50%;
-  position:relative;
-}
-</style>
+{% endblock %}

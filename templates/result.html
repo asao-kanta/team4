@@ -1,61 +1,8 @@
-<!DOCTYPE html>
-<html lang="ja" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title>結果</title>
-  </head>
-  <body>
-    <div class="xxx">
-    <h1>予測結果</h1>
-    <img src={{img}} alt="今回の画像" title="今回の画像">
-    {% for ban,desc,kaku in namae %}
-      <p class="zyuni">{{ban}}. {{desc}} {{kaku}}%</p>
-    {% endfor %}
-    <a href="./">TOPに飛びます</a>
-  </div>
-  </body>
-</html>
+{% extends "layout.html" %}
+{% block content %}
 
-<style type="text/css">
-div {
-  background: #ffffff;
-  width: 90%;
-  padding: 10px;
-  text-align: center;
-  margin: 0 auto;
-}
-img{
-  height: 250px;
-}
+<h3>予想クラス</h3>
+{{ predict_Confidence }}
 
-</style><!DOCTYPE html>
-<html lang="ja" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title>結果</title>
-  </head>
-  <body>
-    <div class="xxx">
-    <h1>予測結果</h1>
-    <img src={{img}} alt="今回の画像" title="今回の画像">
-    {% for ban,desc,kaku in namae %}
-      <p class="zyuni">{{ban}}. {{desc}} {{kaku}}%</p>
-    {% endfor %}
-    <a href="./">TOPに飛びます</a>
-  </div>
-  </body>
-</html>
 
-<style type="text/css">
-div {
-  background: #ffffff;
-  width: 90%;
-  padding: 10px;
-  text-align: center;
-  margin: 0 auto;
-}
-img{
-  height: 250px;
-}
-
-</style>
+{% endblock %}
